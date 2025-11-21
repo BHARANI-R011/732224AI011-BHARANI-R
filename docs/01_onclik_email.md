@@ -1,0 +1,7 @@
+- singin n8n
+- step1: go to create workflow
+- step2: add manual trigger
+- step3: add gmail to send message
+- step4: give your email, subject, email type
+- step5: execute workflow
+- <img width="1895" height="723" alt="image" src="https://github.com/user-attachments/assets/e4735310-b243-416f-bb30-99081f360fe2" />
