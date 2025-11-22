@@ -1,0 +1,6 @@
+- singin to n8n workflow
+- Step 1: Create a WorkFlow.
+- Step 2: add a schedule trigger
+- Step 3: add Gmail to sent a message to the user
+- Step 4: execute the workflow
+- ![WhatsApp Image 2025-11-22 at 11 45 39_93b005df](https://github.com/user-attachments/assets/18dd76d6-f810-4240-8476-d29dee4c28fc)
