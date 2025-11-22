@@ -1,0 +1,6 @@
+- singin to n8n workflow
+- step1: add manual Trigger
+- step2: add your google sheet
+- step3: add if action for filter your sheet which one you want
+- step4: add tow google sheet(append row in sheet) in if action for one is true statement and another one for false statement
+- <img width="1915" height="852" alt="Screenshot 2025-11-22 113753" src="https://github.com/user-attachments/assets/f2c38e36-6836-4957-b984-65bfa8e158fa" />
